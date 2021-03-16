@@ -1,2 +1,5 @@
 # hello-world
-just a try
+Hi, everyone!
+Nice to meet you here!
+
+It's a raining day. Unhappy now...
